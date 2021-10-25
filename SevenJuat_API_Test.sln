@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SevenJuat_API_Test", "SevenJuat_API_Test\SevenJuat_API_Test.csproj", "{FCAEB8AF-729B-4660-9247-580532F108BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenJuat_API_Test.UnitTest", "SevenJuat_API_Test.UnitTest\SevenJuat_API_Test.UnitTest.csproj", "{7686E376-4E28-4C75-AC51-1A7A52A7B917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAEB8AF-729B-4660-9247-580532F108BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAEB8AF-729B-4660-9247-580532F108BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAEB8AF-729B-4660-9247-580532F108BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAEB8AF-729B-4660-9247-580532F108BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7686E376-4E28-4C75-AC51-1A7A52A7B917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7686E376-4E28-4C75-AC51-1A7A52A7B917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7686E376-4E28-4C75-AC51-1A7A52A7B917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7686E376-4E28-4C75-AC51-1A7A52A7B917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60526E5A-07CB-4B0A-B339-CF8F4F7B95F0}
+	EndGlobalSection
+EndGlobal
